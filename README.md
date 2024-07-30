@@ -1,16 +1,17 @@
-## Hi there 👋
+### just focused. 
 
-<!--
-**juquinha22/juquinha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é joão vitor 
 
-Here are some ideas to get you started:
+-estou estudando no alura
+sou um garoto muito simpatico 
+estou me desenvolvendo na linguagem javascript
+adoro jogar futebol.
+utilizo esse espaço para seu desenvolvimento e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### para vc entrar em contato comigo 
+
+00001108746949sp@aluno.educacao.sp.gov.br
+
+@slvaa.zsr
+
+![](https://tenor.com/pt-BR/view/troll-face-gif-3153808882464034530)
